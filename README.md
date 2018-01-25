@@ -2,11 +2,7 @@
 
 Hello and thank you for joining us for this intro to Web development with JavaScript workshop.
 
-My name is David VanDusen, Web bootcamp instructor at Lighthouse Labs, and your instructor today.
-
-My background is in software development, focusing on Web technologies. I started programming at a young age and built websites during some of the most exciting times in the technologies' histories.
-
-That said, I started out in fine arts and music and have played everything from piano in a jazz big band to singing in a thrash metal band. Programmers are all sorts of people.
+My name is Sarah Veness, your instructor today.
 
 ## Pair programming
 
@@ -23,3 +19,4 @@ The objective is not to fully understand every line of code, but to understand s
 The finished app that we'll be building in just a few hours today will look and feel much like this.
 
 ![Example](/assets/example-cropped.png)
+
